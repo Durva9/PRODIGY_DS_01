@@ -30,9 +30,3 @@ Interactive dashboarding with Streamlit/Dash
 Data visualization using Plotly, Seaborn, or Matplotlib
 
 Data storytelling and demographic trend analysis in Python
-
-## 📽️ Demo Video
-
-🎬 [Click to watch the demo](./assets/demo.mp4)
-
-This video demonstrates the Python-based population dashboard with filtering and visualizations.
